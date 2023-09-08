@@ -1,0 +1,18 @@
+ft_putstr/ft_putstr.c:10:25: error: expected ';' after expression
+                        write (1, &str[i] ,1)
+                                             ^
+                                             ;
+1 error generated.
+
+
+abc\n
+\n
+-------
+
+   c0vdsjnodgfiodgfiudgjfduigjfduigjfdiugjfdugjfdugjfduigjfdgjufdugfdgfd\0f\n
+\n
+-------
+
+   c0vdsjnodg\0fiodgfiudgjfduigjfduigjfdiugjfdugjfdugjfduigjfdgjufdugfdgfd\0f\n
+\n
+-------
